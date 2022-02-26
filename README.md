@@ -15,7 +15,7 @@ One part of my work I would revise would be within the system design document, s
 
 **How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
 
-To interpret the user’s needs and implement this into the system design, being attentive to the interview transcript was one of the most important factors. For example, in the transcript, it was stated in detail how DriverPass wished for customers to be able to choose from multiple driving packages and the details of each package. This is an important part of the website design as well for the users when they log in. It is always important to consider the user’s needs when designing because they are an important part of why the system is being created. Keeping them in mind during both the designing and developing phases will allow for the best possible product outcome.
+To interpret the user’s needs and implement this into the system design, being attentive to the interview transcript was one of the most important factors. For example, in the transcript, it was stated in detail how DriverPass wished for customers to be able to choose from multiple driving packages and the details of each package. This is an important part of the website design as well for the users when they log in. It is always important to consider the user’s needs when designing because they are an important part of *why* the system is being created. Keeping them in mind during both the designing and developing phases will allow for the best possible product outcome.
 
 **How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
 
